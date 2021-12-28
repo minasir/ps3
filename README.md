@@ -1,0 +1,2 @@
+# ps3
+In Java, the int data type can only represent integers from -2,147,483,648 to 2,147,483,647. This isn’t big enough to store very large numbers—for example, the population of Earth (approximately 7.53 billion as of 2017)—or to compute n! for large values of n.  The Java libraries contain a built-in class called BigInteger to handle arbitrarily large integers. In this problem, you will write your own class called BigInt that has a subset of the functionality of the built-in Java class.
